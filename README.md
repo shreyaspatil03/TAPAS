@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # T.A.P.A.S
 
 T.A.P.A.S.-(Technical Assistance Platform for Advanced Solution) is an advanced tool designed to revolutionize the way developers debug and code. By eliminating the need for copying and pasting code snippets or error messages, T.A.P.A.S. provides seamless assistance through screen-sharing capabilities. This system delivers instant solutions, code suggestions, and debugging assistance directly by analyzing the developer's screen in real time.
@@ -15,3 +16,6 @@ Features
 * Multilingual Support: Supports multiple programming languages and frameworks.
 
 * Context-Aware Solutions: Provides solutions based on the specific context of the visible code or error messages.
+=======
+# TAPAS
+>>>>>>> 04da1f4e8234e575beff437b96b0e638af390731
